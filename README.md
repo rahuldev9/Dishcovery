@@ -38,9 +38,8 @@ Cooking isn’t just a chore—it’s an adventure! Whether you're:
 
 Try it out now and transform the way you cook:  
 👉 **[Launch Dishcovery](https://dishcovery-beta.vercel.app/)**
-## 📸 Usage Screenshots
 
-### 🎨 Code Run Share
+## 📸 Usage Screenshots
 
 ![Generated Image](assets/image1.png)
 ![Generated Image](assets/image2.png)
