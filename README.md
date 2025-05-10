@@ -43,3 +43,4 @@ Try it out now and transform the way you cook:
 
 ![Generated Image](assets/image1.png)
 ![Generated Image](assets/image2.png)
+![Generated Image](assets/image3.png)
